@@ -3,9 +3,8 @@
 ![banner](./mostlyai_banner.jpeg)
 
 **Resources**
-* our Website: https://www.mostly.ai
-* our Platform: https://app.mostly.ai
-* our Public API: https://github.com/mostly-ai/mostly-openapi
-* our Python client: https://github.com/mostly-ai/mostly-python
-* our Synthetic Data Quality Assurance: https://github.com/mostly-ai/mostlyai-qa/
-* our Synthetic Data Tutorials: https://github.com/mostly-ai/mostly-tutorials
+* [Synthetic Data SDK](https://github.com/mostly-ai/mostlyai) ✨
+* [Synthetic Data Quality Assurance](https://github.com/mostly-ai/mostlyai-qa/) 🔎
+* [Synthetic Data Engine](https://github.com/mostly-ai/mostlyai-engine/) 💎
+* https://www.mostly.ai
+* https://app.mostly.ai
