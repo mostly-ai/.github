@@ -1,6 +1,6 @@
 ## Welcome to MOSTLY AI
 
-![banner](./mostlyai_banner.jpeg)
+![banner](./Github_profile_banner_dark.jpg)
 
 **Resources**
 * [Synthetic Data SDK](https://github.com/mostly-ai/mostlyai) ✨
